@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/ТВОЯ_ССЫЛКА_НА_КАРТИНКУ.png" alt="Jenny Mod Enhanced" width="800">
+  <img src="https://i.postimg.cc/yYG1sTg5/a-high-quality-3d-render-in-th-2026-11-26T23-38-45.png" alt="Jenny Mod Enhanced" width="800">
 </p>
 
 <p align="center">
